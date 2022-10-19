@@ -1,0 +1,40 @@
+.pic img{
+width: 100%;
+height: 100%;
+}
+
+.pic{
+    width: 700px ;
+   
+}
+
+
+.txt{
+    height: 493px;
+}
+
+@media screen and (max-width:450px){
+    .container1{
+        margin: 0;
+        padding: 0;
+
+    }
+    .col{
+        width: 180px;
+        height: 75px;
+        margin-top: 5px;
+    }
+
+.txt{
+    height: 260px;
+    margin: 0;
+}
+.txt h1{
+    font-size: 15pt;
+    margin: 0;
+}
+.txt p{
+    font-size: 7pt;
+    margin: 0;
+}
+}

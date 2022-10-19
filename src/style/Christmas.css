@@ -1,0 +1,54 @@
+.img{
+    background-image: url(../Photos/f1.png);
+    height: 518px;
+    width: 700px;
+    
+}
+
+.img p{
+    font-size: 40pt;
+}
+
+.img h1{
+    font-size: 50pt;
+}
+
+.con p{
+    font-size: 50pt;
+}
+
+.con h1{
+    font-size: 50pt;
+    
+}
+
+
+@media screen and (max-width:450px){
+    .img{
+background-size: cover;
+        height: 318px;
+        width: 500px;
+        
+    }
+    .img p{
+        font-size: 20pt;
+    }
+    
+    .img h1{
+        font-size: 16pt;
+    }
+
+    .con{
+
+    }
+    .con p{
+        font-size: 20pt;
+    }
+    
+    .con h1{
+        font-size: 25pt;
+        
+    }
+
+}
+

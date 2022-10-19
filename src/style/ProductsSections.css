@@ -1,0 +1,29 @@
+
+    @media screen and (max-width:450px){
+      
+    .sec{
+        display: grid;
+
+    }
+    .img1{
+        margin: 0;
+        padding: 0;
+    }
+
+    .card{
+        width: 70px;
+    }
+
+    .body{
+        height: 105px;
+    }
+    .title{
+        font-size: 10px;
+
+    }
+    .item{
+            font-size: 10px;
+    
+          
+    }
+}
